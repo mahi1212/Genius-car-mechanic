@@ -1,0 +1,13 @@
+.add-service form{
+    display: flex;
+    flex-direction: column;
+    max-width: 30rem;
+    margin: 0 auto;
+}
+form input, textarea{
+    margin: 5px 20px;
+    padding: 10px;
+    background-color: cornsilk;
+    border: 1px solid slateblue;
+    border-radius: 5px;
+}

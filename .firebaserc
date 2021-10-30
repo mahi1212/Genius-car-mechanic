@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "genius-car-mechanics"
-  }
+    "default": "genius-car-mechanics",
+    "staging": "genius-car-mechanic-bd240"
+  },
+  "targets": {}
 }
